@@ -1,0 +1,6 @@
+{
+  "name": "SolGrid - Decentralized Microgrid Energy Trading",
+  "description": "Peer-to-peer decentralized microgrid energy trading platform with smart contracts, IoT solar generation telemetry, and an on-chain tokenized order book.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
